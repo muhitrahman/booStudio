@@ -1,3 +1,3 @@
 # booStudio
 
-<img src="auth-img.pdf" alt="authentication">
+<img src="auth-image.pdf" alt="authentication">
